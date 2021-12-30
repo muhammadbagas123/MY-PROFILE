@@ -1,7 +1,4 @@
-### Hi there 👋
+HALLO MY NAME MUHAMMAD BAGAS PANGESTU
+I AM STUDENT AT MULTIMEDIA NUSANTARA UNIVERSITY
+![My Profile](https://user-images.githubusercontent.com/83765572/147755521-6ab450b7-02bd-4cd3-9e9f-b2e4eaeb6700.png)
 
-<!--
-**muhammadbagas123/muhammadbagas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![My Profile](https://user-images.githubusercontent.com/83765572/147755493-33defd2d-8ee3-49f4-b038-b3fa5929fa3c.png)
